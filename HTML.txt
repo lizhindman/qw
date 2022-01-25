@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+</head>
+<body>
+
+	Hello to all who may read this. I am a beginner. I love my family,Disney, and Harry Potter.
+
+</body>
+</html>
